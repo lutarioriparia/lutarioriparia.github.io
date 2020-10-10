@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lutarioriparia.github.io</id>
     <title>叶荻</title>
-    <updated>2020-07-28T07:29:18.642Z</updated>
+    <updated>2020-10-10T09:38:38.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lutarioriparia.github.io"/>
     <link rel="self" href="https://lutarioriparia.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://lutarioriparia.github.io/images/avatar.png</logo>
     <icon>https://lutarioriparia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 叶荻</rights>
+    <entry>
+        <title type="html"><![CDATA[中国人文社会大学徽学院]]></title>
+        <id>https://lutarioriparia.github.io/post/hui-uhssc/</id>
+        <link href="https://lutarioriparia.github.io/post/hui-uhssc/">
+        </link>
+        <updated>2020-10-10T09:06:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>School of Huizhou Studies, University of Humanities and Social Sciences of China</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>School of Huizhou Studies, University of Humanities and Social Sciences of China</p>
+<!-- more -->
+<h1 id="学校简介">学校简介</h1>
+<p>中国人文社会大学是一所以人文和社会科学为主，兼有特色经济、管理学科的全国重点大学。1959年5月创建于北京，建校第二年即被列为全国重点大学。1970年末，学校迁至安徽省徽州专区（今黄山市），开始了第二次创业。</p>
+<h1 id="学院简介">学院简介</h1>
+<h1 id="培养方案">培养方案</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肥西路]]></title>
         <id>https://lutarioriparia.github.io/post/fei-xi-lu/</id>
