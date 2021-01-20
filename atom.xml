@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lutarioriparia.github.io</id>
     <title>叶荻</title>
-    <updated>2020-10-10T09:39:10.700Z</updated>
+    <updated>2021-01-20T06:39:02.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lutarioriparia.github.io"/>
     <link rel="self" href="https://lutarioriparia.github.io/atom.xml"/>
     <subtitle>浔阳江头夜送客，枫叶荻花秋瑟瑟。</subtitle>
     <logo>https://lutarioriparia.github.io/images/avatar.png</logo>
     <icon>https://lutarioriparia.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 叶荻</rights>
+    <rights>All rights reserved 2021, 叶荻</rights>
     <entry>
         <title type="html"><![CDATA[中国人文社会大学徽学院]]></title>
         <id>https://lutarioriparia.github.io/post/hui-uhssc/</id>
@@ -21,7 +21,7 @@
         <content type="html"><![CDATA[<p>School of Huizhou Studies, University of Humanities and Social Sciences of China</p>
 <!-- more -->
 <h1 id="学校简介">学校简介</h1>
-<p>中国人文社会大学是一所以人文和社会科学为主，兼有特色经济、管理学科的全国重点大学。1959年5月创建于北京，建校第二年即被列为全国重点大学。1970年末，学校迁至安徽省徽州专区（今黄山市），开始了第二次创业。</p>
+<p>中国人文社会大学是一所以人文和社会科学为主，兼有特色理学、工学学科的全国重点大学。1959年5月创建于北京，建校第二年即被列为全国重点大学。1970年末，学校迁至安徽省徽州专区（今黄山市），开始了第二次创业。</p>
 <h1 id="学院简介">学院简介</h1>
 <h1 id="培养方案">培养方案</h1>
 ]]></content>
@@ -1333,7 +1333,7 @@ Lutarioripariaの声優は神谷明さんです。</p>
 <li>[022162] <a href="https://icourse.club/course/12716/"><strong>大学物理-基础实验</strong></a> 韦先涛</li>
 <li>[104065](MARX1002) <a href="https://icourse.club/course/18071/"><strong>中国近现代史纲要</strong></a> 杨昕 郭培培</li>
 <li>[106X21](HS1528) <a href="https://icourse.club/course/3263/"><strong>日本社会文化解读(双语课程)</strong></a> 小森阳子</li>
-<li>[206502](CHEM1503) <a href="https://icourse.club/course/14033/"><strong>化学实验安全知识</strong></a> 朱平平 冯红艳 郑媛 兰泉 高明丽 黄微 刘红瑜</li>
+<li>[206502](CHEM1503M) <a href="https://icourse.club/course/14033/"><strong>化学实验安全知识</strong></a> 朱平平 冯红艳 郑媛 兰泉 高明丽 黄微 刘红瑜</li>
 <li>[601011] <a href="https://icourse.club/course/18136/"><strong>新生“科学与社会”研讨课</strong></a> 金腾川</li>
 <li>[FL00501a] <a href="https://icourse.club/course/12922/"><strong>交际英语A</strong></a> 汪滔</li>
 <li>[HS00M08] <a href="https://icourse.club/course/14473/"><strong>城市与文化遗产</strong></a> 夏增民</li>
@@ -1342,6 +1342,22 @@ Lutarioripariaの声優は神谷明さんです。</p>
 <h2 id="2020年夏季学期">2020年夏季学期</h2>
 <ul>
 <li>[008158] <a href="https://icourse.club/course/13985/"><strong>生物学野外实习</strong></a> 罗建川 沈显生</li>
+</ul>
+<h2 id="2020年秋季学期">2020年秋季学期</h2>
+<ul>
+<li>[008074] <a href="https://icourse.club/course/6560/"><strong>遗传学</strong></a> 史庆华</li>
+<li>[008105] <a href="https://icourse.club/course/12287/"><strong>生物化学I</strong></a> 周丛照 陈泉 李卫芳</li>
+<li>[008183] <a href="https://icourse.club/course/18305/"><strong>普通生物学实验</strong></a> 陈曦 罗建川 刘晓燕</li>
+<li>[008J30] <a href="https://icourse.club/course/18976/"><strong>生命科学前沿</strong></a> 朱书 孙林峰</li>
+<li>[017082] <a href="https://icourse.club/course/3891/"><strong>概率论与数理统计B</strong></a> 张洪</li>
+<li>[019047] <a href="https://icourse.club/course/3503/"><strong>有机化学B</strong></a> 李光水</li>
+<li>[019151] <a href="https://icourse.club/course/19007/"><strong>有机化学基础实验(上)</strong></a> 查正根 郑媛 兰泉 李玲玲</li>
+<li>[BIOL5001P] <a href="https://icourse.club/course/19079/"><strong>生物实验安全与防护</strong></a> 赵丽萍 赵伟 许超 张倩 王雪娟 罗建川</li>
+<li>[HS1542M] <a href="https://icourse.club/course/18495/"><strong>过去一百年</strong></a> 冯玮</li>
+<li>[MARX1003] <a href="https://icourse.club/course/18376/"><strong>马克思主义基本原理</strong></a> 黄世福 孟天琦 朱兆华</li>
+<li>[PE00511] <a href="https://icourse.club/course/13046/"><strong>手球I(俱乐部)</strong></a> 杨善君</li>
+<li>[PHYS1004B] <a href="https://icourse.club/course/4956/"><strong>电磁学B</strong></a> 张永生</li>
+<li>[PHYS1009] <a href="https://icourse.club/course/1775/"><strong>大学物理-综合实验</strong></a> 王中平</li>
 </ul>
 ]]></content>
     </entry>
